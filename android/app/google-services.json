@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "190692696222",
+    "project_id": "ibbn-volunteers",
+    "storage_bucket": "ibbn-volunteers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190692696222:android:6ce92a07a4311cb3cc5b8f",
+        "android_client_info": {
+          "package_name": "br.org.boasnovas.app_church_volunteers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190692696222-s084gtdgfp1e3fbu5qn9k42p35nt99bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYbKYepWye8wXzOwZvbH30VuAHRcttv5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190692696222-r9dc4dftf7a2p6j4qsph5ffs7jqkbgbb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "190692696222-gjr6fj6ak3b9apu53dnnu31dsosa3c8j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appChurchVolunteers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
