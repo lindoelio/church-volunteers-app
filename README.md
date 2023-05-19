@@ -25,7 +25,6 @@ for git branching.
 - main
 - feature/*
 - bugfix/*
-- hotfix/*
 
 ### Commit Message Convention
 
